@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @RjavisDrout
+- 👀 I’m interested in creating my Youtube Channel
+- 🌱 I’m currently learning how to use GitHub
+- 📫 How to reach me: RjavisDrout@gmail.com
