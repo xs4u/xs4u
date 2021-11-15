@@ -2,3 +2,6 @@
 - 👀 I’m interested in creating my Youtube Channel
 - 🌱 I’m currently learning how to use GitHub
 - 📫 How to reach me: RjavisDrout@gmail.com
+- INFO: My Youtube channel's name is same as my GitHub Username. You can even just search in google "RjavisDrout" I have tested in bing, There wasn't anything other than me and websites that got my new or old skins that was in Minecraft. (Yeah I have a official license of Minecraft)
+- DO NOT SPAM ON MY DISCORD/YOUTUBE/STEAM This will make I just report you to Discord/Youtube/Steam
+- DO NOT SEND FRIEND REQUESTS TO ME IF WE DIDN'T MEET, If you anyway want to send me friend request just message me on steam/discord
