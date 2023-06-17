@@ -1,5 +1,2 @@
-- 👋 Hi, I’m @RjavisDrout
-- 👀 I’m interested in creating my Youtube Channel
-- 🌱 I’m currently learning how to use GitHub
-- 📫 How to reach me: RjavisDrout@gmail.com
-- INFO: My Youtube channel's name is same as my GitHub Username. You can even just search in google "RjavisDrout" I have tested in bing, There wasn't anything other than me and websites that got my new or old skins that was in Minecraft. (Yeah I have a official license of Minecraft)
+- hi
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheRjavisDev&show_icons=true&theme=dark)
